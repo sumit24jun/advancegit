@@ -1,4 +1,4 @@
-public class Test throw Nehaexception{
+private class Test throw Nehaexception{
 	public static void neha() {
 		System.out.println("this is neha output1");
 	}
