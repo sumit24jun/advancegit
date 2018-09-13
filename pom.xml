@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
    <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>omdifiedbySumit</serenity.version>
+        <serenity.version>omdifiedbySumit123</serenity.version>
         <serenity.jbehave.version>1.42.0</serenity.jbehave.version>
         <webdriver.driver>firefox</webdriver.driver>
     </properties>
