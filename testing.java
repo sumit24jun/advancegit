@@ -12,7 +12,7 @@ public class Test{
 	}
 	
 	public addedanother method{
-		if(1=1) {
+		if(1=neha) {
 			i=10;
 		}
 	}
