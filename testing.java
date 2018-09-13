@@ -8,7 +8,7 @@ public class Test{
 	}
 	
 	public added new method{
-		sysout
+		sysout trying to conflict
 	}
 	
 	public addedanother method{
