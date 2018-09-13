@@ -12,7 +12,9 @@ public class Test{
 	}
 	
 	public addedanother method{
-		123neha adding sysout againagain
+		if(1=1) {
+			i=10;
+		}
 	}
 	
 	
