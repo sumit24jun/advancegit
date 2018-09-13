@@ -2,8 +2,8 @@ public class Test{
 	public static void neha() {
 		System.out.println("this is neha output1");
 	}
-}public class Test addedbySumit{
-	public static void sumit() {
+}public class Test{
+	public static void sumitaddedbyneha() {
 		System.out.println("this is neha output1");
 	}
 	
