@@ -10,4 +10,8 @@ public class Test{
 	public added new method{
 		
 	}
+	
+	public addedanother method{
+		
+	}
 }
